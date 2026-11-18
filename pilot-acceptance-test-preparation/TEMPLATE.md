@@ -159,4 +159,4 @@ per criterion, reviewer's reason, reviewer role); Pass rule; Open questions.
 
 ## Version notes
 
-0.1.0, 9 November 2026. Written by Fully Powered AI. Not yet tested in a client environment.
+0.1.0, 9 November 2026. Written by FullyPowered AI. Not yet tested in a client environment.

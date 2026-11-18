@@ -1,6 +1,6 @@
 # SOP exception capture
 
-Workflow template 0.1.0 · Operations and process improvement · Fully Powered AI
+Workflow template 0.1.0 · Operations and process improvement · FullyPowered AI
 
 ## Purpose
 
@@ -165,4 +165,4 @@ procedure, say that changes follow the owner's written approval.
 
 ## Version notes
 
-0.1.0 · 9 November 2026 · Written by Fully Powered AI. Editorially reviewed. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 9 November 2026 · Written by FullyPowered AI. Editorially reviewed. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

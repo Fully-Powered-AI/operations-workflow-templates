@@ -141,7 +141,7 @@ No recorded output above was changed. One observation was corrected: the note on
 
 Made in a second editorial review, after the edits above. None has been run again, and no recorded output or observation above was changed.
 
-- The credits in the entry were reworded in Fully Powered AI's own words. This does not change what a run prints.
+- The credits in the entry were reworded in FullyPowered AI's own words. This does not change what a run prints.
 - The example's reasons in section 7 for steps 1 and 6 now rest on figures (the Estimator's 16.9 a week; the Sales coordinator's 25.7), so the two sentences this record calls reasoning rather than supplied facts are no longer in the example. Its line on the Estimator's 38 hours under Figures to firm up and its open question were reworded to the format; the figures are unchanged.
 - The third kind of option at the constraint, removing a wait in front of it, now applies only where the notes show the wait leaves the constraint with nothing to work on, and returns the hours without work the notes give. This run proposed no such option, and neither does the example.
 - The instruction block now says to leave the constraint "not confirmed" when arrivals are missing, to write "hours not supplied" for a role with no hours row, and to say whether an option also cuts the next role's load. The output format has a line for load not computed. This run already gave the effect of option 2 on the Production manager.

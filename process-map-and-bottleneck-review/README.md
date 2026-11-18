@@ -62,11 +62,11 @@ Choose the process and name its owner. Agree the one number the process exists t
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record of that run is published with it. The figures and the finding matched the example, and the record lists the places where the instructions left the assistant a choice. Small clarifications made afterward, to settle those places, have not been run again; the record lists them. One run on an invented example is not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record of that run is published with it. The figures and the finding matched the example, and the record lists the places where the instructions left the assistant a choice. Small clarifications made afterward, to settle those places, have not been run again; the record lists them. One run on an invented example is not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a process whose bottleneck you already know, and on one you changed in the past where you know what happened next, then checking every figure by hand. Hard cases belong in the test set: a step everyone blames that is not the limit, a long wait caused by an approval day rather than by lack of time, and estimates that disagree with what is actually finished. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set. When the review points at a step worth handing to AI, [Workflow fit check](https://fullypowered.ai/workflows/workflow-fit-check/) says whether it is ready, and [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/) writes down the changed step once the owner approves it.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
@@ -97,4 +97,4 @@ Testing in your environment means running it on a process whose bottleneck you a
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

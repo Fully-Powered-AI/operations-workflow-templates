@@ -359,4 +359,4 @@ user to remove them.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in one run, by a model that had not written it; the record is published with it. After two independent reviews the example's output was corrected and a few clarifications were made to the template, listed in the record; the example was not run again after those edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026 in one run, by a model that had not written it; the record is published with it. After two independent reviews the example's output was corrected and a few clarifications were made to the template, listed in the record; the example was not run again after those edits. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

@@ -61,11 +61,11 @@ Name who decides what gets built. Say which AI product and plan you are on, and 
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template from its own method for qualifying a piece of work before building. It was editorially reviewed on 9 November 2026. It was tried on its invented example, in Claude on 9 November 2026: one recorded run, after two earlier runs the same day on earlier wording. The record is published with it and lists the small edits made to the instructions since. Runs on one invented example are not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own method for qualifying a piece of work before building. It was editorially reviewed on 9 November 2026. It was tried on its invented example, in Claude on 9 November 2026: one recorded run, after two earlier runs the same day on earlier wording. The record is published with it and lists the small edits made to the instructions since. Runs on one invented example are not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three requests whose answer you already know, including one you built and regret, and seeing whether the page reaches the same answer for the same reasons. When a piece of work passes, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) records how your best person handles its awkward cases, and [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up the cases that prove the build.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -95,4 +95,4 @@ Testing in your environment means running it on two or three requests whose answ
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

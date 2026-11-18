@@ -26,7 +26,7 @@
     "sop-exception-capture"
   ],
   "evidence": {
-    "written_by": "Fully Powered AI",
+    "written_by": "FullyPowered AI",
     "source_and_rights_reviewed": true,
     "editorially_reviewed": "2026-11-10",
     "package_format_valid": true,
@@ -42,7 +42,7 @@
   "sources": [
     {
       "kind": "own",
-      "title": "Fully Powered AI's own method for naming a process constraint: each role's weekly load computed from the hours it gives the process, send-backs counted into that load, the constraint's capacity checked against what is finished, the hours each first option could return counted from the inputs, and every change left to the owner."
+      "title": "FullyPowered AI's own method for naming a process constraint: each role's weekly load computed from the hours it gives the process, send-backs counted into that load, the constraint's capacity checked against what is finished, the hours each first option could return counted from the inputs, and every change left to the owner."
     },
     {
       "kind": "third-party",
