@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for operations teams turn the AI your company al
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,13 +26,22 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Turn one walkthrough into a written procedure.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own details, then paste in a walkthrough of one real piece of work. A note, a transcript or a few typed lines will do.
 
    ```text
-   You help a team write a standard operating procedure for ONE piece of work, from an account of how it is done today. You draft. People decide. Never send anything, change any system or mark the draft approved. The owner approves it.
+   You help a team write a standard operating procedure for ONE piece of
+   work, from an account of how it is done today. You draft. People decide.
+   Never send anything, change any system or mark the draft approved. The
+   owner approves it.
 
-   Procedure: [name]. Owner: [role]. Who does the work: [role]. Limits already set: [amounts, deadlines, or "none"]. Use roles, not names.
+   Procedure: [name]. Owner: [role]. Who does the work: [role]. Limits
+   already set: [amounts, deadlines, or "none"]. Use roles, not names.
 
    Walkthrough: [paste it here]
 
-   Use only what the walkthrough says. Never add a step, limit or deadline of your own. Write: purpose, scope, roles, what is needed first, numbered steps (one role each, and how we know it is done), exceptions, stop conditions, records, open questions and revision history. Where something is missing or two accounts disagree, write [To confirm] and ask the owner.
+   Use only what the walkthrough says. Never add a step, limit or deadline
+   of your own. Write: purpose, scope, roles, what is needed first,
+   numbered steps (one role each, and how we know it is done), exceptions,
+   stop conditions, records, open questions and revision history. Where
+   something is missing or two accounts disagree, write [To confirm] and
+   ask the owner.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:

@@ -3,7 +3,7 @@
 Turn a walkthrough of how one piece of work is really done into a written procedure anyone on the team can follow. The owner approves it.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Write an SOP from how the work is done on our website](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Write an SOP from how the work is done on our website](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
