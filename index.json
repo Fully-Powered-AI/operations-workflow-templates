@@ -36,6 +36,14 @@
       "directory": "https://fullypowered.ai/workflows/operations-kpi-scorecard/"
     },
     {
+      "id": "outstanding-signatures-follow-up-list",
+      "name": "Outstanding signatures follow-up list",
+      "version": "0.1.0",
+      "summary": "Twice a week and before month end, whoever sends documents for signature gets one list from the e-signature tool's status export: what is waiting, on whom and for how long, what expires soon, what was declined or expired, and a reminder drafted for each waiting signer. Nothing is sent.",
+      "path": "outstanding-signatures-follow-up-list/",
+      "directory": "https://fullypowered.ai/workflows/outstanding-signatures-follow-up-list/"
+    },
+    {
       "id": "pilot-acceptance-test-preparation",
       "name": "Pilot acceptance-test preparation",
       "version": "0.1.0",

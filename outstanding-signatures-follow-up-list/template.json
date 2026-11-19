@@ -1,0 +1,48 @@
+{
+  "id": "outstanding-signatures-follow-up-list",
+  "name": "Outstanding signatures follow-up list",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Twice a week and before month end, whoever sends documents for signature gets one list from the e-signature tool's status export: what is waiting, on whom and for how long, what expires soon, what was declined or expired, and a reminder drafted for each waiting signer. Nothing is sent.",
+  "directory": "https://fullypowered.ai/workflows/outstanding-signatures-follow-up-list/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/sales",
+    "functions/executive-and-office-support"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/real-estate",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "client-document-request-tracker",
+    "overdue-invoice-follow-up-preparation",
+    "deal-close-plan"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own rules for prepared work: the organization's own export and rules as the only authority, fixed inputs that stop on a mismatch, a count that ties to the rows supplied, every gap written as a question, and a person who approves and sends every reminder."
+    }
+  ]
+}
