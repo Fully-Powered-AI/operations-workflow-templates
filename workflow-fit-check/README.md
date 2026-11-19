@@ -8,7 +8,7 @@ Check one piece of work six ways before building and get a plain verdict on one 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workflow-fit-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-workflow-fit-check&from=gh-operations-workflow-fit-check)*
@@ -50,7 +50,7 @@ One short page per piece of work, two to three printed pages, held to five actio
 
 A good page lets a reader who was not in the room see why the answer is the answer.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -70,7 +70,7 @@ Name who decides what gets built. Say which AI product and plan you are on, and 
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own method for qualifying a piece of work before building. It was editorially reviewed on 9 November 2026. It was tried on its invented example, in Claude on 9 November 2026: one recorded run, after two earlier runs the same day on earlier wording. The record is published with it and lists the small edits made to the instructions since. Runs on one invented example are not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own method for qualifying a piece of work before building. It was editorially reviewed on 9 November 2026. It was tried on its example, in Claude on 9 November 2026: one recorded run, after two earlier runs the same day on earlier wording. The record is published with it and lists the small edits made to the instructions since. Runs on one example are not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on two or three requests whose answer you already know, including one you built and regret, and seeing whether the page reaches the same answer for the same reasons. When a piece of work passes, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-workflow-fit-check&from=gh-operations-workflow-fit-check) records how your best person handles its awkward cases, and [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-workflow-fit-check&from=gh-operations-workflow-fit-check) sets up the cases that prove the build.
 
@@ -78,13 +78,13 @@ Testing in your environment means running it on two or three requests whose answ
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 9 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

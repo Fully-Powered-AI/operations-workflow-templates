@@ -1,11 +1,11 @@
-# Workflow fit check: one trial on its invented example
+# Workflow fit check: one trial on its example
 
 - **Product:** Claude (run in Claude Code, its command-line coding tool)
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** one on this version of the instructions. Two earlier runs the same day, on earlier wording, are summarised at the end.
 
-The inputs are the invented example published with this template. The company, its people, its cases and its software are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
+The inputs are the example published with this template. The company, its people, its cases and its software are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
 
 ## Inputs used
 
@@ -115,7 +115,7 @@ Owner's decision: [blank until decided]   Date: [ ]
 
 **The verdict follows the order.** Reasons a, b, c and e apply. Reason c on its own would point to "Leave it with your people"; the page takes line 2 of the order, because a and b apply, and says so under the verdict. The first action is to open the "Vendor documents" tab, and reading one certificate is named as the part, not ready. That is what the template's first proposed acceptance test expects.
 
-**Against the reviewer checklist,** as far as a run on invented notes can show:
+**Against the reviewer checklist,** as far as a run on sample notes can show:
 
 1. One piece of work, and the page says which: yes.
 2. One mark per check, with quoted words, nothing Clear on an assumption: yes for the six checks. Under reason d the run argues that the whole list can be judged "by finding the certificates again", which is its own reasoning and not a quotation.

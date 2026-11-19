@@ -1,6 +1,6 @@
-# Workflow fit check: an invented example
+# Workflow fit check: an example
 
-*Illustrative example with invented data.* Tarnbrook Mechanical is an invented commercial heating and cooling contractor. Its people, its cases and its software are invented too. The owner (Marcus) asks for an AI to track subcontractor paperwork; the operations manager (Priya) runs the fit check on 4 November 2026. What she supplied comes first, in full, with people named by role as the template asks. Then the page that came back. It is a worked refusal: the answer is not to build what was asked for.
+*Illustrative example with sample data.* Tarnbrook Mechanical is an illustrative commercial heating and cooling contractor. Its people, its cases and its software are illustrative too. The owner (Marcus) asks for an AI to track subcontractor paperwork; the operations manager (Priya) runs the fit check on 4 November 2026. What she supplied comes first, in full, with people named by role as the template asks. Then the page that came back. It is a worked refusal: the answer is not to build what was asked for.
 
 Two things to notice. The owner asks for a tracker that chases; the walkthrough describes a check before each job start. The page does not stop on that and does not choose: it checks the piece the walkthrough describes, says so, and makes the choice the owner’s first question. And two reasons pull in different directions: checking the whole would take as long as doing it, and the work is a register the job software may already hold. The order of the verdicts settles it, and the page says which line decided.
 

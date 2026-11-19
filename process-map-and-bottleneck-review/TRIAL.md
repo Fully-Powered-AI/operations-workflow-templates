@@ -1,10 +1,10 @@
-# Process map and bottleneck review: trial on the invented example
+# Process map and bottleneck review: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-I tried this workflow template once, on its own invented example. The inputs are the invented example's; no client data was used. I did not write the template. I read the template, took only the inputs from `public/example.md` (the process request, the six-step table, the role hours and the four notes), followed the instruction block and the output format, and only then compared my output with the example's output and the reviewer checklist.
+I tried this workflow template once, on its own example. The inputs are the example's; no client data was used. I did not write the template. I read the template, took only the inputs from `public/example.md` (the process request, the six-step table, the role hours and the four notes), followed the instruction block and the output format, and only then compared my output with the example's output and the reviewer checklist.
 
 ## Inputs used
 
@@ -119,7 +119,7 @@ Draft for the Operations manager. Nothing has been changed, assigned or sent. Th
 10. "Its load" in the leave-alone section is defined per step, but load is computed per role. For a role with several steps (the Sales coordinator) I gave the role's load at each step.
 11. Compounding with the check against what is finished. The check passed (16.9 against 17), which is a good sign, but it is not independent of the step table: both rest on the same counts, and the template does not say what the check can and cannot show.
 
-**Shortcomings in this trial.** It was one run, by one model, on one invented example. I compared my output with the published output, so I can say they agree on the numbers and the finding; I cannot say how a different person or product would do. The acceptance tests were not run. The template's acceptance tests remain proposed.
+**Shortcomings in this trial.** It was one run, by one model, on one example. I compared my output with the published output, so I can say they agree on the numbers and the finding; I cannot say how a different person or product would do. The acceptance tests were not run. The template's acceptance tests remain proposed.
 
 ## Edits made after this run
 

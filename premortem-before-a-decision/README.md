@@ -8,7 +8,7 @@ Picture the plan already failed, rank the reasons, and turn each top risk into a
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision)*
@@ -43,7 +43,7 @@ Two short documents, from two runs.
 
 Where the room left a gap, such as a top risk nobody took, the record says "not assigned" and asks the owner. It never fills the gap itself.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -64,7 +64,7 @@ Decide which decisions get a premortem, for example anything over a set amount o
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a decision your team made a year or more ago and knows the outcome of, with the reasons written fresh by people who were there, plus hard cases written in advance: a reason that fits no group, a rating outside the scale, a top risk nobody owns. The owner checks the ranking against the ratings before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision) sets up those cases, and when the plan is a launch, [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision) carries the agreed checks into the dated steps.
 
@@ -72,13 +72,13 @@ Testing in your environment means running it on a decision your team made a year
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

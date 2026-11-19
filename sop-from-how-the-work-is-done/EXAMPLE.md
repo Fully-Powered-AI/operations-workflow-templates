@@ -1,6 +1,6 @@
-# Write an SOP from how the work is done: an invented example
+# Write an SOP from how the work is done: an example
 
-*Illustrative example with invented data.* Larkmere Home is an invented 30-person online homeware retailer. Its people, systems, policy and figures are invented too. The inputs come first, exactly as the operations lead supplied them. The output is the complete reply they produced when the template was tried on them: a note on where the sources disagree, the draft procedure, and a closing list of what is still needed. The typesetting has been changed and one line of section 4 corrected, as the trial record says; nothing else.
+*Illustrative example with sample data.* Larkmere Home is an illustrative 30-person online homeware retailer. Its people, systems, policy and figures are illustrative too. The inputs come first, exactly as the operations lead supplied them. The output is the complete reply they produced when the template was tried on them: a note on where the sources disagree, the draft procedure, and a closing list of what is still needed. The typesetting has been changed and one line of section 4 corrected, as the trial record says; nothing else.
 
 ## The inputs
 

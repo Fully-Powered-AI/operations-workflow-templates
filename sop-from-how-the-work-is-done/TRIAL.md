@@ -1,11 +1,11 @@
-# Write an SOP from how the work is done: trial on its invented example
+# Write an SOP from how the work is done: trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Fable 5.2
 - **Date:** 2026-11-09
 - **Runs:** three. One on the template as first written, two on the revised template.
 
-The inputs are the invented example published with this template. The company, its people, its systems, its policy and its figures are invented, and no client data was used. This is a record of runs on that example. It is not a test in any company's environment.
+The inputs are the example published with this template. The company, its people, its systems, its policy and its figures are illustrative, and no client data was used. This is a record of runs on that example. It is not a test in any company's environment.
 
 ## Inputs used
 
@@ -66,7 +66,7 @@ Where the reply falls short or the instructions still leave a choice:
 5. **The mark "Reserved decision"** was used for the glass injury case. Whether that case counts as a reserved judgment is the assistant's guess; the instructions list legal, clinical and hiring judgments "or another reserved judgment".
 6. **The tagging of the ticket** is done by "customer service", a department. The third run did not ask which role; the second did. It happens before the procedure starts, and the rule does not say whether that counts.
 
-Shortcomings of this trial: three runs, one model, on tidy invented inputs with a clear start and end. The runs differed in step count (17 and 15 on nearly the same instructions), so the shape of a draft is not fixed by the template alone. No run exercised a path that stops the work (no owner, no walkthrough, detail to redact, more than one procedure, more than 20 steps, a shared sign-in), and none of the template's ten proposed acceptance tests was run as such. Whether the draft matches how the work is really done cannot be judged from invented material: the doer's read and the owner's approval are steps for people and were not part of any run.
+Shortcomings of this trial: three runs, one model, on tidy sample inputs with a clear start and end. The runs differed in step count (17 and 15 on nearly the same instructions), so the shape of a draft is not fixed by the template alone. No run exercised a path that stops the work (no owner, no walkthrough, detail to redact, more than one procedure, more than 20 steps, a shared sign-in), and none of the template's ten proposed acceptance tests was run as such. Whether the draft matches how the work is really done cannot be judged from sample material: the doer's read and the owner's approval are steps for people and were not part of any run.
 
 ## Edits after the recorded runs
 

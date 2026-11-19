@@ -1,6 +1,6 @@
-# Outstanding signatures follow-up list: an invented example
+# Outstanding signatures follow-up list: an example
 
-*Illustrative example with invented data.* The business, its clients, the people, the documents and every date below are invented. Company A is an invented 45-person commercial cleaning business. Its clients appear as Client B to Client M. Kit Alvarez, the sales operations coordinator, sends service orders and renewals out for signature for the two account managers, Maya Ostrander and Joel Pemberton; Tomas Reyner, the operations director, approves some orders before the client signs. Every person named is invented.
+*Illustrative example with sample data.* The business, its clients, the people, the documents and every date below are illustrative. Company A is an illustrative 45-person commercial cleaning business. Its clients appear as Client B to Client M. Kit Alvarez, the sales operations coordinator, sends service orders and renewals out for signature for the two account managers, Maya Ostrander and Joel Pemberton; Tomas Reyner, the operations director, approves some orders before the client signs. Every person named is illustrative.
 
 On the morning of Tuesday 24 November 2026, a week before month end, Kit exported the status of every open signing request and ran the list. The inputs come first, in full, so the workflow template can be run on them. The draft list it returned follows.
 

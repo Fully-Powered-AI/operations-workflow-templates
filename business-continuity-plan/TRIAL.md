@@ -1,10 +1,10 @@
-# Business continuity plan: a trial run on the invented example
+# Business continuity plan: a trial run on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (the scope brief, the activities table, the dependencies table, the roles roster, the external contacts and the notes). No client data was used. The run followed the fenced instruction block and the output format in `member/template.md`. The model that ran it did not write the template and did not read the example's output until its own draft was finished. The template's reviewer checklist and the published output were then used for the comparison below.
+The inputs are the example in `public/example.md` (the scope brief, the activities table, the dependencies table, the roles roster, the external contacts and the notes). No client data was used. The run followed the fenced instruction block and the output format in `member/template.md`. The model that ran it did not write the template and did not read the example's output until its own draft was finished. The template's reviewer checklist and the published output were then used for the comparison below.
 
 ## What came out
 

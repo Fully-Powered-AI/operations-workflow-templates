@@ -1,6 +1,6 @@
-# SOP exception capture: an invented example
+# SOP exception capture: an example
 
-*Illustrative example with invented data.* An invented regional building-supplies distributor: the procedure, then one step of its register and the open questions.
+*Illustrative example with sample data.* An illustrative regional building-supplies distributor: the procedure, then one step of its register and the open questions.
 
 **New-customer account setup**
 

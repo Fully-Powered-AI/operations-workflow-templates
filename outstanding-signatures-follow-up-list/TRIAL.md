@@ -1,10 +1,10 @@
-# Trial: Outstanding signatures follow-up list, run on its invented example
+# Trial: Outstanding signatures follow-up list, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-19
 
-The inputs are the invented example published beside this template. No client data was used. The assistant did not write the template. It read the instructions and the two invented inputs (the status export and the team's follow-up rules with today's date, 24 November 2026) in [example.md](example.md), and produced the list before reading the example's output.
+The inputs are the example published beside this template. No client data was used. The assistant did not write the template. It read the instructions and the two sample inputs (the status export and the team's follow-up rules with today's date, 24 November 2026) in [example.md](example.md), and produced the list before reading the example's output.
 
 ## First run: what came out
 
@@ -33,7 +33,7 @@ The list had all six sections, in order, and the closing lines.
   4. The rule that no reminder is drafted for a held signer sits in two places (step 5 and the exceptions); the assistant found them consistent.
   5. D-205's expired row has its last activity on 2 November 2026, three weeks before its expiry date of 23 November 2026. The template says to use the expiry date, so the assistant did, and it raised no question. A reader might expect one.
 - The acceptance tests in the template are still marked proposed, and only the ordinary-week case was exercised here. The stop conditions, the decline conditions and the urgent-type and signing-order edge cases were not tested by this run.
-- This was one run, by one model, on the invented example only. It shows the instructions can be followed to the published output. It says nothing about client data or other AI products.
+- This was one run, by one model, on the example only. It shows the instructions can be followed to the published output. It says nothing about client data or other AI products.
 
 ## Edits made after the first run
 
@@ -53,10 +53,10 @@ After the independent review, edits were made to the template, the profile and t
 - **Model:** Claude Sonnet 5.5 (claude-sonnet-5-5)
 - **Date:** 2026-11-19
 
-This second run was made by the same session that made the edits, working through the edited instructions and the edited invented inputs step by step. It was not blind: the first run's output and the example's output were in view. It was not a fresh session with a separate model.
+This second run was made by the same session that made the edits, working through the edited instructions and the edited sample inputs step by step. It was not blind: the first run's output and the example's output were in view. It was not a fresh session with a separate model.
 
 - The counts tied as before: 10 documents = 6 waiting + 1 declined + 1 expired + 1 voided + 1 fully signed; 14 rows; 6 waiting signers = 3 reminders + 1 not yet due + 1 not reminded + 1 held; 2 later signers not yet reached. Nothing was stopped for.
 - Two facts changed from the first run, both because of the moved date. D-202: Grace Ilunga has had the document since 19 November 2026 (5 days, not 6), and she has been quiet since 20 November (4 days, unchanged), so her reminder is still due under the urgent wait of 1 day. Tomas Reyner's signature on D-202 is dated 19 November 2026. R1 now says the document reached her on 19 November 2026.
 - Everything else matched the first run: the order of the waiting list (D-202 first as urgent, then D-201, D-210, D-207, D-209, D-203), the expiry list, the declined and expired documents, R2 and R3, the closed documents and the one question.
 - The output was set out in the plain-line form of the output format. The block's closing line and the output format were read against each other and agree.
-- Still not exercised: the stop conditions, the decline conditions, and the other acceptance tests, which remain proposed. This is one self-run on the invented example, not a test in a client environment or in other AI products.
+- Still not exercised: the stop conditions, the decline conditions, and the other acceptance tests, which remain proposed. This is one self-run on the example, not a test in a client environment or in other AI products.

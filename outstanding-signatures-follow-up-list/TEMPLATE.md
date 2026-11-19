@@ -262,4 +262,4 @@ against the export before you return the list.
 
 ## Version notes
 
-- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work, with no third-party text. Editorially reviewed. Tried on its invented example on 19 November 2026; the record is published with it, with the small edits made after the first run and a second run on the edited example by the editing session, not a blind run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 19 November 2026. Written by FullyPowered AI as original work, with no third-party text. Editorially reviewed. Tried on its example on 19 November 2026; the record is published with it, with the small edits made after the first run and a second run on the edited example by the editing session, not a blind run. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

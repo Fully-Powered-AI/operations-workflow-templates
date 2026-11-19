@@ -4,7 +4,7 @@
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This run used only the invented inputs from the worked example (`public/example.md`): the settings, the seven-measure sheet for the invented wholesale distributor, the four exports, the scorecard history, the action list and the owners' notes. No client data was used. The assistant that ran it did not write the template. It followed the instruction block and the output format in `member/template.md`, and it did not read the example's output until its own scorecard was finished.
+This run used only the sample inputs from the worked example (`public/example.md`): the settings, the seven-measure sheet for the illustrative wholesale distributor, the four exports, the scorecard history, the action list and the owners' notes. No client data was used. The assistant that ran it did not write the template. It followed the instruction block and the output format in `member/template.md`, and it did not read the example's output until its own scorecard was finished.
 
 ## What came out
 
@@ -81,7 +81,7 @@ Draft for the Operations manager's review. Every value traces to the exports nam
   - The format has no way to draw attention to a green measure that keeps sliding. M3 is green but has fallen since September; the trend line shows it and no question is raised, because the rules ask for questions only in the listed cases.
   - An amber with no owner note (M5) raises no question, as written. A reader may want one; the template lists that as a thing to customize for status changes.
   - I recomputed September's values from the summary exports and noted that they match the history. The template asks for this only when a summary export holds last month's row and a difference appears, so the added line is my own. For M5 it could not be done, because the complaints log holds only one September row.
-- **Shortcomings and cautions.** This was one run by one assistant on one invented example; it shows the instructions can be followed to a result a reader can check, not that other products or other data will behave the same. The template's own acceptance tests (renamed column, no rows for the month, eleven measures, wrong-side red level and others) were not run.
+- **Shortcomings and cautions.** This was one run by one assistant on one example; it shows the instructions can be followed to a result a reader can check, not that other products or other data will behave the same. The template's own acceptance tests (renamed column, no rows for the month, eleven measures, wrong-side red level and others) were not run.
 
 ## Changed after this run, and not run again
 

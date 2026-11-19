@@ -1,6 +1,6 @@
-# Pilot acceptance-test preparation: an invented example
+# Pilot acceptance-test preparation: an example
 
-*Illustrative example with invented data.* An invented 60-person software company’s client-onboarding handoff. The owner’s brief, then the pack prepared from it.
+*Illustrative example with sample data.* An illustrative 60-person software company’s client-onboarding handoff. The owner’s brief, then the pack prepared from it.
 
 **Pilot brief: client-onboarding handoff**
 
@@ -13,7 +13,7 @@ Pilot owner: client success lead · Expert: senior client success manager
 
 **Owner:** Client success lead
 
-| Case | Invented record | Expected behavior |
+| Case | Sample record | Expected behavior |
 |----|----|----|
 | Ordinary | Order 3317. All three sources agree. | Complete record, every item sourced. Next action: the client success manager confirms kickoff. |
 | Missing information | Client C. No billing contact anywhere. | Marks the record incomplete and drafts one question for the account executive. |

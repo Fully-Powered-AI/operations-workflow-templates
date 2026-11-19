@@ -1,6 +1,6 @@
-# Preventive maintenance plan: an invented example
+# Preventive maintenance plan: an example
 
-*Illustrative example with invented data.* The business, the equipment, the costs, the dates and the failures below are all invented. The business is an invented 35-person commercial bakery supplying cafés, called the Bakery here, with six main pieces of equipment on one site. Its operations manager runs the plan; an outside maintenance engineer is its competent person for safety-critical equipment. People are referred to by role.
+*Illustrative example with sample data.* The business, the equipment, the costs, the dates and the failures below are all illustrative. The business is an illustrative 35-person commercial bakery supplying cafés, called the Bakery here, with six main pieces of equipment on one site. Its operations manager runs the plan; an outside maintenance engineer is its competent person for safety-critical equipment. People are referred to by role.
 
 The inputs come first, in full, so the template can be run on them. The plan follows.
 

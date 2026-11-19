@@ -1,10 +1,10 @@
-# Premortem before a decision: tried on its invented example
+# Premortem before a decision: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5), run by a model that did not write the template
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [example.md](example.md): the invented distributor's brief and written reasons for the first pass, and the agreed groups, ratings and facilitator's notes for the second. No client data was used. The run followed the instruction block in the member template and its output format. The published example's output was read only after this output was complete.
+The inputs are the example in [example.md](example.md): the illustrative distributor's brief and written reasons for the first pass, and the agreed groups, ratings and facilitator's notes for the second. No client data was used. The run followed the instruction block in the member template and its output format. The published example's output was read only after this output was complete.
 
 ## Inputs used
 
@@ -190,7 +190,7 @@ Item 1 (grouping a reason that fits two groups) and item 7 (dates before the ses
 - **Model:** Sonnet 5.5 (model ID claude-sonnet-5-5). It did not write the template. The run was started by the model that made the changes above.
 - **Date:** 2026-11-10, after the changes above, none of which touches the first pass's instructions or output format.
 
-To answer the first-pass shortcoming recorded above, the first pass was run again with only the instruction block, the output format, the invented brief and the 18 written reasons. The run saw no ratings, no notes and no part of the example's output. This is the whole output:
+To answer the first-pass shortcoming recorded above, the first pass was run again with only the instruction block, the output format, the illustrative brief and the 18 written reasons. The run saw no ratings, no notes and no part of the example's output. This is the whole output:
 
 ```
 FIRST PASS

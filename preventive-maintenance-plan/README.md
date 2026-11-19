@@ -8,7 +8,7 @@ Rank equipment by failure cost and get a dated maintenance calendar, spare parts
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan)*
@@ -45,7 +45,7 @@ After the calendar: the spare parts with the minimum to hold and what to buy, fo
 
 A good plan can be checked against the manuals and the repair log in an afternoon, and the technician recognizes every date on it.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -65,7 +65,7 @@ Set your own cost bands, in your currency, and work out what an hour of each ass
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on a published maintenance planning method credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and run on it again the same day after the clarifications that followed review; the record of that latest run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on a published maintenance planning method credited with it. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, and run on it again the same day after the clarifications that followed review; the record of that latest run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on last year's files for a site your technician knows well, plus hard cases written in advance, each with its expected behavior: a file with a renamed column, a part that keeps failing, a task with no record, a safety-critical asset whose history looks worrying, a breakdown on a machine that is not on the register. The manager checks every cost and date against the manuals and the repair log, and the competent person checks every safety-critical interval, before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) describes the record we keep.
 
@@ -73,13 +73,13 @@ Testing in your environment means running it on last year's files for a site you
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

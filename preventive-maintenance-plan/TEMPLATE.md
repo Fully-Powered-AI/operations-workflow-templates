@@ -190,7 +190,7 @@ has been ordered, booked, sent or changed in any system.
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a separate test. The invented example, tried in Claude (see the record published with the template), happens to exercise the cases in tests 4, 6, 7, 8, 9, 10 and 12; the rest have not been tried at all.
+Proposed tests. None has been run as a separate test. The example, tried in Claude (see the record published with the template), happens to exercise the cases in tests 4, 6, 7, 8, 9, 10 and 12; the rest have not been tried at all.
 
 1. **Ordinary site.** Six assets, complete files, no flags. Expected: costs, bands, approaches, a dated calendar, spare parts and measures, with every figure traceable.
 2. **Renamed column.** The history has `downtime` in place of `hours_stopped`. Expected: stops and asks which column holds what; no figures worked out.
@@ -356,4 +356,4 @@ now, tell the person to take it out of use first and prepare nothing.
 
 ## Version notes
 
-- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 10 November 2026, and run again on it the same day after the second round of review edits (linking a failure to a task only when the cause names the task's part as what failed, the case where failures are closer than any step, month ends, and the question about a last done date that falls on a failure); the record of that second run is published with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 10 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 10 November 2026, and run again on it the same day after the second round of review edits (linking a failure to a task only when the cause names the task's part as what failed, the case where failures are closer than any step, month ends, and the question about a last done date that falls on a failure); the record of that second run is published with the template. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

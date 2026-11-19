@@ -1,6 +1,6 @@
-# Operations KPI scorecard: an invented example
+# Operations KPI scorecard: an example
 
-*Illustrative example with invented data.* The business, the people, the customers, the products, the figures and every date below are invented. The business is an invented 70-person wholesale distributor of catering and cleaning supplies, with one warehouse and its own delivery vans. Its operations manager runs the scorecard; the warehouse manager, the purchasing lead, the customer service lead and the transport manager each own measures. Customers appear as letters.
+*Illustrative example with sample data.* The business, the people, the customers, the products, the figures and every date below are illustrative. The business is an illustrative 70-person wholesale distributor of catering and cleaning supplies, with one warehouse and its own delivery vans. Its operations manager runs the scorecard; the warehouse manager, the purchasing lead, the customer service lead and the transport manager each own measures. Customers appear as letters.
 
 The operations review for October was held on the morning of Monday 2 November 2026, and the action it agreed was added to the action list. The operations manager then ran the scorecard. The inputs come first, in full, so the template can be run on them. The scorecard the workflow template returned follows.
 

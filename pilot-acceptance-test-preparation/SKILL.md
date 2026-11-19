@@ -10,7 +10,7 @@ metadata:
 
 # Pilot acceptance-test preparation
 
-This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example with invented data is in [EXAMPLE.md](EXAMPLE.md).
+This is the technical file for a FullyPowered workflow template. It carries the instructions an AI product follows. The complete template, with roles, inputs, exceptions, the reviewer checklist, acceptance tests and what to customize, is in [TEMPLATE.md](TEMPLATE.md). A worked example is in [EXAMPLE.md](EXAMPLE.md).
 
 ## Instructions
 
@@ -26,7 +26,7 @@ to mark outputs, decline and lay them out on the record sheet for the expert.
 3. Write test cases of five kinds: ordinary (from the trusted examples),
    missing information, contradictory inputs, ambiguous match, and stop and
    ask. Use plain labels (Case 1, Order 3317, Client C). Turn every awkward
-   case the expert gave you into a case. Never present an invented example
+   case the expert gave you into a case. Never present an example
    as the team's own work.
 4. Write each expected behavior before any run, in observable terms: what
    the output contains, flags, addresses and must not contain.

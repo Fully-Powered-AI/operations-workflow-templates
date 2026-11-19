@@ -8,7 +8,7 @@ Measure every service level in a client contract from your own records, explain 
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-service-level-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report)*
@@ -40,7 +40,7 @@ One draft report in a fixed order: the count of service levels met, missed and n
 
 When an export's columns do not match, or the records were exported before the period ended, the work stops and asks. It never reads service levels out of the contract on its own, never says whether a credit is owed and sends nothing to the client.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -58,7 +58,7 @@ Set out a service level schedule for each contract once, and have whoever owns t
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example on 11 November 2026 in one run, in Claude; the record of the run is published with it. After an earlier run, the instructions, the output format and the example were revised, and the published record is of the run on the revised text. That run was made by the model that made the revisions, so it is not independent. A few small clauses were added to the instructions after that run, and the amended text has not been run. It has not yet been tested in a client environment.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its example on 11 November 2026 in one run, in Claude; the record of the run is published with it. After an earlier run, the instructions, the output format and the example were revised, and the published record is of the run on the revised text. That run was made by the model that made the revisions, so it is not independent. A few small clauses were added to the instructions after that run, and the amended text has not been run. It has not yet been tested in a client environment.
 
 Testing in your environment means running it on two or three past periods your service delivery manager already reported, with hard cases written in advance: a result just under its target that rounds to it, an exclusion the contract does not allow, an outage that starts the month before, a record still open past its due time, a credit written as a sliding scale. The service delivery manager checks every figure against its working before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report) describes the record we keep.
 
@@ -66,13 +66,13 @@ Testing in your environment means running it on two or three past periods your s
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

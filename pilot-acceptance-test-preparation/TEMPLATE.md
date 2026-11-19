@@ -37,7 +37,7 @@ Do not use it while the purpose is disputed, or when nobody can judge the output
    - **Contradictory inputs:** show both versions with their sources and apply the owner's rule on which record wins. With no rule, pick neither and ask.
    - **Ambiguous match:** show the candidates and ask. Make no finding.
    - **Stop and ask:** a legal question, a commercial promise, a deadline or a decision about a person. Stop, refer to the named role and produce nothing that reads as the decision.
-5. Turn every awkward case into a test case of the kind it fits, ahead of invented ones.
+5. Turn every awkward case into a test case of the kind it fits, ahead of sample ones.
 6. For each case write, before any run, what the output contains, flags and addresses, and what it must not contain.
 7. Write the rubric, each criterion marked meets or misses with a reason:
    - **Completeness:** every required field present, or marked missing with a question.
@@ -119,7 +119,7 @@ to mark outputs, decline and lay them out on the record sheet for the expert.
 3. Write test cases of five kinds: ordinary (from the trusted examples),
    missing information, contradictory inputs, ambiguous match, and stop and
    ask. Use plain labels (Case 1, Order 3317, Client C). Turn every awkward
-   case the expert gave you into a case. Never present an invented example
+   case the expert gave you into a case. Never present an example
    as the team's own work.
 4. Write each expected behavior before any run, in observable terms: what
    the output contains, flags, addresses and must not contain.

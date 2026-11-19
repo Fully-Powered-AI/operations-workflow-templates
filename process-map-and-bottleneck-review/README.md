@@ -8,7 +8,7 @@ Map one process step by step, find the one step that caps how much gets finished
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review)*
@@ -52,7 +52,7 @@ One review, in a fixed order:
 
 A good review lets someone who was not in the room see why that step is the bottleneck, from figures they can recompute.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ Choose the process and name its owner. Agree the one number the process exists t
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record of that run is published with it. The figures and the finding matched the example, and the record lists the places where the instructions left the assistant a choice. Small clarifications made afterward, to settle those places, have not been run again; the record lists them. One run on an invented example is not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its example, in Claude on 10 November 2026, and the record of that run is published with it. The figures and the finding matched the example, and the record lists the places where the instructions left the assistant a choice. Small clarifications made afterward, to settle those places, have not been run again; the record lists them. One run on an example is not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a process whose bottleneck you already know, and on one you changed in the past where you know what happened next, then checking every figure by hand. Hard cases belong in the test set: a step everyone blames that is not the limit, a long wait caused by an approval day rather than by lack of time, and estimates that disagree with what is actually finished. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) builds that test set. When the review points at a step worth handing to AI, [Workflow fit check](https://fullypowered.ai/workflows/workflow-fit-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) says whether it is ready, and [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) writes down the changed step once the owner approves it.
 
@@ -79,13 +79,13 @@ Testing in your environment means running it on a process whose bottleneck you a
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

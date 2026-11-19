@@ -1,6 +1,6 @@
-# Premortem before a decision: an invented example
+# Premortem before a decision: an example
 
-*Illustrative example with invented data.* The company, its people, its customers and every date and figure below are invented. The company is an invented 40-person distributor of cleaning supplies, deciding whether to sign a seven-year lease on a larger warehouse and move into it over one weekend. People are named by role only. First come the brief and the written reasons the facilitator typed up, then the grouping sheet from the first pass, then the room's ratings and notes, and last the premortem record from the second pass.
+*Illustrative example with sample data.* The company, its people, its customers and every date and figure below are illustrative. The company is an illustrative 40-person distributor of cleaning supplies, deciding whether to sign a seven-year lease on a larger warehouse and move into it over one weekend. People are named by role only. First come the brief and the written reasons the facilitator typed up, then the grouping sheet from the first pass, then the room's ratings and notes, and last the premortem record from the second pass.
 
 ## The inputs to the first pass
 

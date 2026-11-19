@@ -1,11 +1,11 @@
-# Trial: Incident investigation and corrective actions, run on its invented example
+# Trial: Incident investigation and corrective actions, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 - **Template version:** 0.1.0
 
-This is a record of one run of the workflow template on its own invented example. The business, the people, the incident, the evidence and the dates are invented, and no client data was used. It shows what the template produced on one set of inputs, and then on one update to the register those inputs started. It is not a test in any company's environment.
+This is a record of one run of the workflow template on its own example. The business, the people, the incident, the evidence and the dates are illustrative, and no client data was used. It shows what the template produced on one set of inputs, and then on one update to the register those inputs started. It is not a test in any company's environment.
 
 This is the second run on the same example. The first run, earlier the same day, was made by an assistant that had not written the template. It, and an independent review of the template afterwards, found where the instructions left room to guess and where the published example went beyond its own inputs. The instructions, the output format and the example's output were revised, and the run recorded here was made on the revised instructions. What the first run found, and what was changed, follows the observations. After that come an update run on the same register, made after a second review, and what that review changed.
 
@@ -188,7 +188,7 @@ Changed afterwards, before the run recorded above:
 
 ### How this run was made
 
-The update run was made on 10 November 2026, after a second independent review asked for one, by the assistant that applied that review's points (Claude Opus 5.5, model ID claude-opus-5-5, in the same product). It wrote the update list, which is invented, then followed the instruction block and output format as revised after that review: the last record was the example's record as published, with the two edits listed at the end, and the update list is the one in [the worked example](example.md), under "An update run". It is not independent: the same assistant wrote the inputs, knew what each row was meant to exercise, and ran the template on them. The example's update output is this run's output, unchanged.
+The update run was made on 10 November 2026, after a second independent review asked for one, by the assistant that applied that review's points (Claude Opus 5.5, model ID claude-opus-5-5, in the same product). It wrote the update list, which is illustrative, then followed the instruction block and output format as revised after that review: the last record was the example's record as published, with the two edits listed at the end, and the update list is the one in [the worked example](example.md), under "An update run". It is not independent: the same assistant wrote the inputs, knew what each row was meant to exercise, and ran the template on them. The example's update output is this run's output, unchanged.
 
 ### What came out
 

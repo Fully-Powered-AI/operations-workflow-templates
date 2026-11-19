@@ -1,6 +1,6 @@
-# Client service level report: an invented example
+# Client service level report: an example
 
-*Illustrative example with invented data.* The business, the client, the contract, the people, the records, the fees and every date below are invented. The business is an invented 40-person managed IT services provider that runs a service desk and a hosted platform for its clients. Its client appears as Client A, and the contract as Managed service agreement MSA-A. People appear by role only. All times are US Pacific time. The service desk system sets the due time of each priority 2 incident from business hours of 08:00 to 18:00, Monday to Friday.
+*Illustrative example with sample data.* The business, the client, the contract, the people, the records, the fees and every date below are illustrative. The business is an illustrative 40-person managed IT services provider that runs a service desk and a hosted platform for its clients. Its client appears as Client A, and the contract as Managed service agreement MSA-A. People appear by role only. All times are US Pacific time. The service desk system sets the due time of each priority 2 incident from business hours of 08:00 to 18:00, Monday to Friday.
 
 October 2026 has closed. On the morning of Monday 2 November 2026 the service coordinator exported the month's records and ran the report for the service delivery manager. The inputs come first, in full, so the workflow template can be run on them. The draft report it returned follows.
 
