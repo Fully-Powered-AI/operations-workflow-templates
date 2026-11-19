@@ -13,6 +13,8 @@
 
 **2. The desk's work log for October** (exported from the quoting system, 2 November 2026; 48 rows)
 
+The work log has these headers: Case, Completed on, Prepared with workflow, Workflow runs, Note.
+
 | Case | Completed on | Prepared with workflow | Workflow runs | Note |
 |---|---|---|---|---|
 | Q-2141 | 1 October 2026 | yes | 1 | |
