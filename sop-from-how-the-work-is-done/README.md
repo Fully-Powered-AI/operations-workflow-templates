@@ -1,10 +1,17 @@
 # Write an SOP from how the work is done
 
-Turn a walkthrough of how one piece of work is really done into a written procedure anyone on the team can follow: who does each step, how they know it is done, what to do when it goes wrong and when to stop and ask. The owner approves it before anyone relies on it.
+Turn a walkthrough of how one piece of work is really done into a written procedure anyone on the team can follow. The owner approves it.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Write an SOP from how the work is done on our website](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?from=gh-sop-from-how-the-work-is-done)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done)*
 
 ## The outcome
 
@@ -34,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where procedures are written, owned and kept current.
-- [Quality management](https://fullypowered.ai/functions/quality-management/): a step with a visible check and a named stop condition is quality built into the work.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where delivery and back-office routines live with a few long-serving people.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), for returns, order problems and supplier routines that vary by who is on shift.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where claims, bookings and paperwork follow rules nobody wrote down.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), for receiving, changeover and office procedures around the line.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the team grows faster than its best people can explain the work.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done), where procedures are written, owned and kept current.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done): a step with a visible check and a named stop condition is quality built into the work.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done), where delivery and back-office routines live with a few long-serving people.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done), for returns, order problems and supplier routines that vary by who is on shift.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done), where claims, bookings and paperwork follow rules nobody wrote down.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done), for receiving, changeover and office procedures around the line.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done), when the team grows faster than its best people can explain the work.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Name the owner of each procedure and who settles questions when they are away. D
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one of your own procedures, then having the person who does the work read the draft against what they said: every step theirs, every gap asked and nothing invented. Once the procedure is approved, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) deepens it with the awkward cases from real work, and [pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up the cases that prove it before anyone relies on it.
+Testing in your environment means running it on one of your own procedures, then having the person who does the work read the draft against what they said: every step theirs, every gap asked and nothing invented. Once the procedure is approved, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done) deepens it with the awkward cases from real work, and [pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done) sets up the cases that prove it before anyone relies on it.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,8 +86,8 @@ Testing in your environment means running it on one of your own procedures, then
 
 - [SOP exception capture](../sop-exception-capture/)
 - [Pilot acceptance-test preparation](../pilot-acceptance-test-preparation/)
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-from-how-the-work-is-done&from=gh-sop-from-how-the-work-is-done).

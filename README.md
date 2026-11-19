@@ -1,14 +1,64 @@
-# FullyPowered Workflow Templates: Operations
+# AI workflow templates for operations teams and process owners
 
-Work that runs the way your best person runs it, every time. These workflow templates capture how the work is really done, exceptions included, and prove a new way of working on real cases before anyone relies on it.
+FullyPowered Workflow Templates for operations teams turn the AI your company already pays for into a team that knows how the work is done: an operations manager with the monthly red-amber-green scorecard worked out from their own exports, a service delivery manager with the client service level report drafted for the period, a site manager with the incident investigation written up and every corrective action listed. 11 workflow templates, made to be customized and deployed. All plain Markdown, all free, MIT license.
 
-**These are templates, made to be customized and deployed.** They are examples and a starting point, not a complete list: copy one, change it to fit how your team does the work, and run it in the AI you already pay for.
+We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
-**FullyPowered AI customizes and builds AI workflows that run in ChatGPT, Claude, Copilot and Gemini**, including ones that run several steps. [More examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/?from=gh-operations) · [Have one built for your team](https://fullypowered.ai/pricing/?from=gh-operations)
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-This repository holds 11 workflow templates for operations leaders and the people who own a process. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+**Who this is for**
 
-## The workflow templates
+- Owners and CEOs who want their operations running the same careful way every time, whoever is on shift.
+- Operations leaders who want a process mapped, a plan drafted or a report prepared for their team this week.
+- The process owner, who gets a precise way to prepare the work and still makes every decision.
+
+**What these are for**
+
+- **Your best way of doing it, for the whole team.** One piece of work, written down precisely enough that an assistant prepares it the same way every time.
+- **Work you can check.** Every template says what it needs, what it produces, what it checked and what it could not.
+- **A person decides.** Anything that sends, posts, pays or changes a record waits for someone to approve it.
+- **Tied into your business systems.** A workflow can be designed to pull from the systems your company already runs, and even push data back into them, with guardrails and a person approving. [Browse the Connectors Directory](https://fullypowered.ai/connectors/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme).
+- **Free, open and portable.** MIT-licensed plain instructions that run in the assistant or agent your team already uses: ChatGPT, Claude, Claude Code, Claude Cowork, Codex, Copilot, Gemini, Grok, Perplexity.
+
+**Quick start**
+
+1. **Turn one walkthrough into a written procedure.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own details, then paste in a walkthrough of one real piece of work. A note, a transcript or a few typed lines will do.
+
+   ```text
+   You help a team write a standard operating procedure for ONE piece of work, from an account of how it is done today. You draft. People decide. Never send anything, change any system or mark the draft approved. The owner approves it.
+
+   Procedure: [name]. Owner: [role]. Who does the work: [role]. Limits already set: [amounts, deadlines, or "none"]. Use roles, not names.
+
+   Walkthrough: [paste it here]
+
+   Use only what the walkthrough says. Never add a step, limit or deadline of your own. Write: purpose, scope, roles, what is needed first, numbered steps (one role each, and how we know it is done), exceptions, stop conditions, records, open questions and revision history. Where something is missing or two accounts disagree, write [To confirm] and ask the owner.
+   ```
+
+2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:
+
+   ```text
+   **STANDARD OPERATING PROCEDURE · Handling a return of an item damaged in transit**
+
+   Status: Draft for the owner's approval. Not in use until approved.
+
+   - **Owner:** operations lead. **Prepared by:** operations lead. **Date:** 9 November 2026.
+   - **Written from:** walkthrough with the returns coordinator, 3 November 2026 (W); note from the customer service lead, 5 November 2026 (N); request and local settings from the operations lead, 9 November 2026 (L).
+   - **Version:** Draft 1. **Next review:** every 12 months (L).
+   - **Summary:** 15 steps, 2 exceptions, 4 stop conditions, 18 open questions.
+
+   **1. Purpose**
+
+   Sets out how a customer's claim for an item damaged in transit is checked, settled by replacement or refund, claimed back from the carrier and recorded.
+   ```
+
+3. Stop there. You will know if this is for you. When you want it fitted to your company, or built into your agents, [that is what we do](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme).
+
+A person starts each workflow, supplies the inputs and decides; the template prepares and checks, and nothing is sent or changed on its own.
+
+These are samples and a starting point, made to be changed to fit how your company works. Your work may not appear here, and a workflow can be one step or many, so any workflow can be built around what your team does.
+
+## The operations workflow templates here today
 
 - **[Business continuity plan](business-continuity-plan/)**: For an owner or operations manager: the activities the business cannot stop for long, how long each can be down and how much data it can lose, what each depends on, the fallback for each, and named owners, deputies, contacts and a test date, ready for a competent reviewer and the owner's approval.
 - **[Client service level report](client-service-level-report/)**: At the end of each reporting period, the service delivery manager gets the report a client contract calls for: every service level measured from your own records, each miss explained by those records, the credits the contract states listed for a person to confirm, and the open questions. Nothing is sent.
@@ -40,10 +90,10 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
-For the work these templates come from, by team and by task, see [AI workflow examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/).
+For the work these templates come from, by team and by task, see [AI workflow examples for operations teams](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme).
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-readme&from=gh-operations-readme).

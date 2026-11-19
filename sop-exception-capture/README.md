@@ -1,10 +1,17 @@
 # SOP exception capture
 
-Turn what your most experienced person does with the awkward cases into an exception register for one procedure. Once the owner approves it, every colleague handles those cases the way your best person does.
+Turn what your most experienced person does with awkward cases into an exception register for one procedure. The owner approves it.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sop-exception-capture/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See SOP exception capture on our website](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sop-exception-capture/?from=gh-operations-sop-exception-capture)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture)*
 
 ## The outcome
 
@@ -32,16 +39,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where procedures are owned.
-- [Quality management](https://fullypowered.ai/functions/quality-management/): a stop condition is a check built into the step.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), where approvals, tolerances and cutoffs hold the exceptions.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), for intake, billing and file procedures.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where senior staff carry the judgment.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where shipments rarely arrive as the procedure assumes.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), for receiving, returns and supplier procedures.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when hiring outpaces coaching.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two teams run one procedure two ways.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-serving staff hold unwritten rules.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), where procedures are owned.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture): a stop condition is a check built into the step.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), where approvals, tolerances and cutoffs hold the exceptions.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), for intake, billing and file procedures.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), where senior staff carry the judgment.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), where shipments rarely arrive as the procedure assumes.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), for receiving, returns and supplier procedures.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), when hiring outpaces coaching.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), when two teams run one procedure two ways.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), where long-serving staff hold unwritten rules.
 
 ## What has to change for your company
 
@@ -51,7 +58,7 @@ Name the owner who settles disagreements. Decide which cases can be shared and w
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on one of your procedures and cases, then checking the register with your expert: every rule cited, every disagreement left open, nothing changed without approval. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on one of your procedures and cases, then checking the register with your expert: every rule cited, every disagreement left open, nothing changed without approval. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -78,9 +85,9 @@ Testing in your environment means running it on one of your procedures and cases
 ## Related workflow templates
 
 - [Pilot acceptance-test preparation](../pilot-acceptance-test-preparation/)
-- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/)
-- [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/)
+- [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture)
+- [Matter-opening checklist preparation](https://fullypowered.ai/workflows/matter-opening-checklist-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture).

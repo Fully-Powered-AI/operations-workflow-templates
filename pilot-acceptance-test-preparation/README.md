@@ -2,9 +2,16 @@
 
 Go into every AI pilot with the test already written: the cases that matter, what good looks like for each and the rule your owner will use to decide.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Pilot acceptance-test preparation on our website](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?from=gh-pilot-acceptance-test-preparation)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation)*
 
 ## The outcome
 
@@ -33,11 +40,11 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where a changed process proves itself in a pilot.
-- [IT and systems](https://fullypowered.ai/functions/it-and-systems/), to confirm what the workflow reads and where its output goes.
-- [Law firms](https://fullypowered.ai/industries/law-firms/), for intake and matter opening, where stopping to ask matters most.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), for the handoff from sales to client success.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), so new hires inherit tested workflows.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), where a changed process proves itself in a pilot.
+- [IT and systems](https://fullypowered.ai/functions/it-and-systems/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), to confirm what the workflow reads and where its output goes.
+- [Law firms](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), for intake and matter opening, where stopping to ask matters most.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), for the handoff from sales to client success.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), so new hires inherit tested workflows.
 
 ## What has to change for your company
 
@@ -47,7 +54,7 @@ Your owner names the expert and sets the local rules: which record wins when two
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing it in your environment means preparing the pack for one real pilot. Your owner and expert then confirm that the cases, rubric and pass rule cover what they would check by hand. [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) shows the record this produces.
+Testing it in your environment means preparing the pack for one real pilot. Your owner and expert then confirm that the cases, rubric and pass rule cover what they would check by hand. [What we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation) shows the record this produces.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -74,9 +81,9 @@ Testing it in your environment means preparing the pack for one real pilot. Your
 ## Related workflow templates
 
 - [SOP exception capture](../sop-exception-capture/)
-- [Account handoff](https://fullypowered.ai/workflows/account-handoff/)
-- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/)
+- [Account handoff](https://fullypowered.ai/workflows/account-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation)
+- [Inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation).

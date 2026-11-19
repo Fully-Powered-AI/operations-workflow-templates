@@ -1,10 +1,17 @@
 # Process map and bottleneck review
 
-Map one process step by step: who does each step, how long work waits and how long it takes, where it is handed over and where it gets sent back. Then find the one step that caps how much gets finished, and what to try there first. The owner decides what changes.
+Map one process step by step, find the one step that caps how much gets finished and see what to try there first. The owner decides what changes.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Process map and bottleneck review on our website](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/?from=gh-process-map-and-bottleneck-review)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review)*
 
 ## The outcome
 
@@ -49,14 +56,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where slow processes are noticed, mapped and fixed.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), because work sent back to an earlier step is usually the most expensive time on the map.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where proposals, onboarding and approvals queue behind one senior person.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), for quoting, order entry and engineering checks around the line.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where bookings and documents pass through several hands before anything moves.
-- [Construction](https://fullypowered.ai/industries/construction/), where estimates, submittals and change requests wait on a few busy people.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when demand outruns the team and you need to know where the next hour of capacity counts.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where processes grew by habit and nobody has timed them in years.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), where slow processes are noticed, mapped and fixed.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), because work sent back to an earlier step is usually the most expensive time on the map.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), where proposals, onboarding and approvals queue behind one senior person.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), for quoting, order entry and engineering checks around the line.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), where bookings and documents pass through several hands before anything moves.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), where estimates, submittals and change requests wait on a few busy people.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), when demand outruns the team and you need to know where the next hour of capacity counts.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review), where processes grew by habit and nobody has timed them in years.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ Choose the process and name its owner. Agree the one number the process exists t
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example, in Claude on 10 November 2026, and the record of that run is published with it. The figures and the finding matched the example, and the record lists the places where the instructions left the assistant a choice. Small clarifications made afterward, to settle those places, have not been run again; the record lists them. One run on an invented example is not a test. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a process whose bottleneck you already know, and on one you changed in the past where you know what happened next, then checking every figure by hand. Hard cases belong in the test set: a step everyone blames that is not the limit, a long wait caused by an approval day rather than by lack of time, and estimates that disagree with what is actually finished. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set. When the review points at a step worth handing to AI, [Workflow fit check](https://fullypowered.ai/workflows/workflow-fit-check/) says whether it is ready, and [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/) writes down the changed step once the owner approves it.
+Testing in your environment means running it on a process whose bottleneck you already know, and on one you changed in the past where you know what happened next, then checking every figure by hand. Hard cases belong in the test set: a step everyone blames that is not the limit, a long wait caused by an approval day rather than by lack of time, and estimates that disagree with what is actually finished. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) builds that test set. When the review points at a step worth handing to AI, [Workflow fit check](https://fullypowered.ai/workflows/workflow-fit-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) says whether it is ready, and [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review) writes down the changed step once the owner approves it.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -99,4 +106,4 @@ Testing in your environment means running it on a process whose bottleneck you a
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-process-map-and-bottleneck-review&from=gh-process-map-and-bottleneck-review).

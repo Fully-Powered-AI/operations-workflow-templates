@@ -1,10 +1,17 @@
 # Preventive maintenance plan
 
-For one site, the facilities or operations manager gets every piece of equipment ranked by failure cost, an approach for each (run to failure, scheduled or condition-based), a dated calendar of tasks from the maker's guidance and the failure history, the spare parts to hold and the downtime measures to track.
+Rank equipment by failure cost and get a dated maintenance calendar, spare parts to hold and downtime measures for one site. A person approves the plan.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/preventive-maintenance-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Preventive maintenance plan on our website](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/preventive-maintenance-plan/?from=gh-preventive-maintenance-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/preventive-maintenance-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan)*
 
 ## The outcome
 
@@ -42,25 +49,25 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the person who runs the site owns how reliably it runs.
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), which names the safety-critical equipment and the competent people who look after it.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where one stopped machine can halt a whole line.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where conveyors, forklifts, dock doors and chillers keep goods moving.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where ovens, refrigeration and air handling have to work every service.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where building plant such as boilers, pumps and air handling serves every tenant.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the equipment has aged and the maintenance routine was never written down.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new machines and longer hours arrive faster than anyone can plan for them.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when a newly acquired site comes with equipment nobody on your side knows yet.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), where the person who runs the site owns how reliably it runs.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), which names the safety-critical equipment and the competent people who look after it.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), where one stopped machine can halt a whole line.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), where conveyors, forklifts, dock doors and chillers keep goods moving.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), where ovens, refrigeration and air handling have to work every service.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), where building plant such as boilers, pumps and air handling serves every tenant.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), where the equipment has aged and the maintenance routine was never written down.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), when new machines and longer hours arrive faster than anyone can plan for them.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan), when a newly acquired site comes with equipment nobody on your side knows yet.
 
 ## What has to change for your company
 
-Set your own cost bands, in your currency, and work out what an hour of each asset stopped really costs you, after any backup. Decide which equipment counts as safety-critical on your site and name a competent person for each kind; inspection duties set by law differ by country and by type of equipment, so the competent person confirms which apply. Choose the readings your team can take and the limits that call for work. Decide who records breakdowns and completed tasks, who reviews the measures each month and the targets you want; the plan sets none. Name who approves spare-part purchases. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to any maintenance system. [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/) handles stock beyond spare parts, [operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/) can carry the downtime measures alongside the rest of your numbers, and [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/) covers the hazards to the people who do the maintenance.
+Set your own cost bands, in your currency, and work out what an hour of each asset stopped really costs you, after any backup. Decide which equipment counts as safety-critical on your site and name a competent person for each kind; inspection duties set by law differ by country and by type of equipment, so the competent person confirms which apply. Choose the readings your team can take and the limits that call for work. Decide who records breakdowns and completed tasks, who reviews the measures each month and the targets you want; the plan sets none. Name who approves spare-part purchases. It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to any maintenance system. [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) handles stock beyond spare parts, [operations KPI scorecard](https://fullypowered.ai/workflows/operations-kpi-scorecard/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) can carry the downtime measures alongside the rest of your numbers, and [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) covers the hazards to the people who do the maintenance.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template in its own words, drawing on a published maintenance planning method credited with it. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, and run on it again the same day after the clarifications that followed review; the record of that latest run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on last year's files for a site your technician knows well, plus hard cases written in advance, each with its expected behavior: a file with a renamed column, a part that keeps failing, a task with no record, a safety-critical asset whose history looks worrying, a breakdown on a machine that is not on the register. The manager checks every cost and date against the manuals and the repair log, and the competent person checks every safety-critical interval, before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on last year's files for a site your technician knows well, plus hard cases written in advance, each with its expected behavior: a file with a renamed column, a part that keeps failing, a task with no record, a safety-critical asset whose history looks worrying, a breakdown on a machine that is not on the register. The manager checks every cost and date against the manuals and the repair log, and the competent person checks every safety-critical interval, before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -88,9 +95,9 @@ Testing in your environment means running it on last year's files for a site you
 ## Related workflow templates
 
 - [Operations KPI scorecard](../operations-kpi-scorecard/)
-- [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/)
-- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Inventory reorder plan](https://fullypowered.ai/workflows/inventory-reorder-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-preventive-maintenance-plan&from=gh-preventive-maintenance-plan).

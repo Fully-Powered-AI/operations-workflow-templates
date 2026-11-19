@@ -1,10 +1,17 @@
 # Client service level report
 
-At the end of each reporting period, the service delivery manager gets the report a client contract calls for: every service level measured from your own records, each miss explained by those records, the credits the contract states listed for a person to confirm, and the open questions. Nothing is sent.
+Measure every service level in a client contract from your own records, explain each miss and list the credits for a person to confirm. Nothing is sent.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-service-level-report/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Client service level report on our website](https://fullypowered.ai/workflows/client-service-level-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-service-level-report/?from=gh-client-service-level-report)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-service-level-report/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report)*
 
 ## The outcome
 
@@ -37,13 +44,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which runs the service the contract measures and reports on it every period.
-- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/), where the account manager decides what the client receives and keeps the relationship sound through a bad month.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where managed services and outsourced work are sold on response times, turnaround and availability written into the contract.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where hosted platforms and support desks report uptime and resolution times to every client that has a service level agreement.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where warehousing and transport contracts promise on-time dispatch and delivery and carry credits when they slip.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where several client contracts each set their own service levels and reporting dates.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the number of contracts outgrows the spreadsheet one person rebuilds every month.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), which runs the service the contract measures and reports on it every period.
+- [Customer success and account management](https://fullypowered.ai/functions/customer-success-and-account-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), where the account manager decides what the client receives and keeps the relationship sound through a bad month.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), where managed services and outsourced work are sold on response times, turnaround and availability written into the contract.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), where hosted platforms and support desks report uptime and resolution times to every client that has a service level agreement.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), where warehousing and transport contracts promise on-time dispatch and delivery and carry credits when they slip.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), where several client contracts each set their own service levels and reporting dates.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report), when the number of contracts outgrows the spreadsheet one person rebuilds every month.
 
 ## What has to change for your company
 
@@ -53,7 +60,7 @@ Set out a service level schedule for each contract once, and have whoever owns t
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example on 11 November 2026 in one run, in Claude; the record of the run is published with it. After an earlier run, the instructions, the output format and the example were revised, and the published record is of the run on the revised text. That run was made by the model that made the revisions, so it is not independent. A few small clauses were added to the instructions after that run, and the amended text has not been run. It has not yet been tested in a client environment.
 
-Testing in your environment means running it on two or three past periods your service delivery manager already reported, with hard cases written in advance: a result just under its target that rounds to it, an exclusion the contract does not allow, an outage that starts the month before, a record still open past its due time, a credit written as a sliding scale. The service delivery manager checks every figure against its working before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past periods your service delivery manager already reported, with hard cases written in advance: a result just under its target that rounds to it, an exclusion the contract does not allow, an outage that starts the month before, a record still open past its due time, a credit written as a sliding scale. The service delivery manager checks every figure against its working before anyone relies on the report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,9 +88,9 @@ Testing in your environment means running it on two or three past periods your s
 ## Related workflow templates
 
 - [Operations KPI scorecard](../operations-kpi-scorecard/)
-- [Support service level definition](https://fullypowered.ai/workflows/support-service-level-definition/)
-- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/)
+- [Support service level definition](https://fullypowered.ai/workflows/support-service-level-definition/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report)
+- [Client-status update preparation](https://fullypowered.ai/workflows/client-status-update-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-client-service-level-report&from=gh-client-service-level-report).

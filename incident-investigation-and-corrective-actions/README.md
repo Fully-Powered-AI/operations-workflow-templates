@@ -1,10 +1,17 @@
 # Incident investigation and corrective actions
 
-After an injury, near miss or property damage, the site, operations or safety manager gets the investigation written up from the evidence: a timeline, the immediate and underlying causes, actions with owners and dates, and a register that follows each action until a check shows it worked.
+Get an incident investigation written up from the evidence, with causes, actions and a register followed to closure. A qualified person decides.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Incident investigation and corrective actions on our website](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?from=gh-incident-investigation-and-corrective)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective)*
 
 ## The outcome
 
@@ -40,13 +47,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the procedures, layouts and checks that most incidents trace back to are owned.
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where the qualified person leads the investigation and owns the reporting duties.
-- [Quality management](https://fullypowered.ai/functions/quality-management/), which runs the same loop of cause, action and checked closure for every nonconformity.
-- [Construction](https://fullypowered.ai/industries/construction/), where sites change daily and a near miss is the cheapest warning there is.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where machines, guards and shift handovers produce most incidents.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where forklifts, racking and people on foot share the same floor.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where incidents are investigated by whoever is free and actions drift once the paperwork is filed.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), where the procedures, layouts and checks that most incidents trace back to are owned.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), where the qualified person leads the investigation and owns the reporting duties.
+- [Quality management](https://fullypowered.ai/functions/quality-management/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), which runs the same loop of cause, action and checked closure for every nonconformity.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), where sites change daily and a near miss is the cheapest warning there is.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), where machines, guards and shift handovers produce most incidents.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), where forklifts, racking and people on foot share the same floor.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective), where incidents are investigated by whoever is free and actions drift once the paperwork is filed.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Name who leads investigations and who your qualified safety person is. Write you
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in two runs: the first, by an assistant that had not written it, showed where the instructions left room to guess; the instructions and the example were revised after an independent review, and the record of the second run, made on the revised instructions, is published with it. After a second independent review, one update run on the same register was made by the assistant that applied that review's fixes, not by an independent one, and its record is published too, with the points it left to judgement. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past incidents your qualified person knows well, plus hard cases written in advance, each with its expected behaviour: two accounts that disagree, a cause the evidence does not support, an analysis that wants to stop at "he ignored the rules", an action marked done with no check, a renamed column. The qualified person checks every cause against the evidence before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past incidents your qualified person knows well, plus hard cases written in advance, each with its expected behaviour: two accounts that disagree, a cause the evidence does not support, an analysis that wants to stop at "he ignored the rules", an action marked done with no check, a renamed column. The qualified person checks every cause against the evidence before anyone relies on the record. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,9 +91,9 @@ Testing in your environment means running it on two or three past incidents your
 ## Related workflow templates
 
 - [Write an SOP from how the work is done](../sop-from-how-the-work-is-done/)
-- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/)
+- [Training needs analysis](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective)
 - [SOP exception capture](../sop-exception-capture/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-incident-investigation-and-corrective-actions&from=gh-incident-investigation-and-corrective).

@@ -1,10 +1,17 @@
 # Business continuity plan
 
-For an owner or operations manager: the activities the business cannot stop for long, how long each can be down and how much data it can lose, what each depends on, the fallback for each, and named owners, deputies, contacts and a test date, ready for a competent reviewer and the owner's approval.
+Get a draft continuity plan with recovery times, fallbacks, deputies and contacts, flagged weak spots and decisions for the owner, who approves it.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-continuity-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Business continuity plan on our website](https://fullypowered.ai/workflows/business-continuity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-continuity-plan/?from=gh-operations-business-continuity-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-continuity-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan)*
 
 ## The outcome
 
@@ -39,25 +46,25 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where the person who runs the work knows what it depends on.
-- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/), which keeps the approved plan and asks when it was last tested.
-- [IT and systems](https://fullypowered.ai/functions/it-and-systems/), which supplies the backup intervals and proves that a restore works.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where one machine, one site or one supplier can stop every order.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where a warehouse and a courier carry every promise to a customer.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client work, billing and payroll all run on a few systems and a few people.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where an order system, a fulfillment partner and a payment provider each sit on the critical path.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the plan lives in the founder's head and should live on a page.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when new sites, suppliers and systems arrive faster than anyone writes down what happens if one fails.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), where the person who runs the work knows what it depends on.
+- [Compliance, risk and privacy](https://fullypowered.ai/functions/compliance-risk-and-privacy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), which keeps the approved plan and asks when it was last tested.
+- [IT and systems](https://fullypowered.ai/functions/it-and-systems/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), which supplies the backup intervals and proves that a restore works.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), where one machine, one site or one supplier can stop every order.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), where a warehouse and a courier carry every promise to a customer.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), where client work, billing and payroll all run on a few systems and a few people.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), where an order system, a fulfillment partner and a payment provider each sit on the critical path.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), where the plan lives in the founder's head and should live on a page.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan), when new sites, suppliers and systems arrive faster than anyone writes down what happens if one fails.
 
 ## What has to change for your company
 
-List the activities that count for your business and who leads each. Decide whether times are counted in calendar hours or working days, how old a proof may be before a fallback counts as unproven, and whether a target must sit a set margin inside the tolerable outage. Name your competent reviewer and who approves. Decide where the approved plan lives, how the people in it get their copy, and where the personal contact sheet is kept apart from it. Legal, regulatory and insurance duties for continuity planning differ by country, sector and policy, so your reviewer and advisers confirm which apply; the template cites none. The evacuation plan stays a separate document. It runs in ChatGPT, Claude, Copilot or Gemini from the tables and notes you supply, with no connection to any system. When a disruption has already happened, [incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) works out what went wrong; for hazards to people at work, use [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/).
+List the activities that count for your business and who leads each. Decide whether times are counted in calendar hours or working days, how old a proof may be before a fallback counts as unproven, and whether a target must sit a set margin inside the tolerable outage. Name your competent reviewer and who approves. Decide where the approved plan lives, how the people in it get their copy, and where the personal contact sheet is kept apart from it. Legal, regulatory and insurance duties for continuity planning differ by country, sector and policy, so your reviewer and advisers confirm which apply; the template cites none. The evacuation plan stays a separate document. It runs in ChatGPT, Claude, Copilot or Gemini from the tables and notes you supply, with no connection to any system. When a disruption has already happened, [incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan) works out what went wrong; for hazards to people at work, use [workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan).
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026 in one run, by a model that had not written it; the record of that run is published with it. After two independent reviews, the example's output was corrected and a few clarifications were made to the template; the record lists them, and the example has not been run again since. That run did not reach the stop conditions. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your own tables with hard cases written in advance, each with its expected behavior: a target equal to the tolerable outage, a fallback slower than the target, backups further apart than the data you can lose, a supplier whose only fallback is itself, a renamed column, a personal mobile number in the notes. The reviewer checks every time comparison against the tables before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on your own tables with hard cases written in advance, each with its expected behavior: a target equal to the tolerable outage, a fallback slower than the target, backups further apart than the data you can lose, a supplier whose only fallback is itself, a renamed column, a personal mobile number in the notes. The reviewer checks every time comparison against the tables before anyone relies on the plan. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,10 +91,10 @@ Testing in your environment means running it on your own tables with hard cases 
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan)
 - [Incident investigation and corrective actions](../incident-investigation-and-corrective-actions/)
 - [Premortem before a decision](../premortem-before-a-decision/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-business-continuity-plan&from=gh-operations-business-continuity-plan).

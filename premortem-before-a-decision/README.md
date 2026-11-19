@@ -1,10 +1,17 @@
 # Premortem before a decision
 
-Before your team commits to a plan that is hard to undo, such as a move, a launch or a new system, a short workshop pictures it a few months on, already failed. The record ranks the reasons, turns each top risk into a check, a warning sign and an owner, and leaves the go decision with the owner.
+Picture the plan already failed, rank the reasons, and turn each top risk into a check, a warning sign and an owner. The owner makes the go decision.
 
-*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/premortem-before-a-decision/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Premortem before a decision on our website](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/premortem-before-a-decision/?from=gh-premortem-before-a-decision)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/premortem-before-a-decision/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision)*
 
 ## The outcome
 
@@ -40,16 +47,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), which usually owns the move, the new system or the changed process.
-- [Leadership](https://fullypowered.ai/functions/leadership/), for owners about to make the call that is hardest to take back.
-- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/), before a project's point of no return.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), before an office move, a new practice system or a new service line.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), before a new line, a plant move or a change of key supplier.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), before a warehouse move, a new carrier or a new stock system.
-- [Construction](https://fullypowered.ai/industries/construction/), before committing to a large job, a new yard or a new site system.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the plans get bigger than the team has made before.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), before the launch date is announced.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), before systems, sites or teams are merged.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), which usually owns the move, the new system or the changed process.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), for owners about to make the call that is hardest to take back.
+- [Project and delivery](https://fullypowered.ai/functions/project-and-delivery/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before a project's point of no return.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before an office move, a new practice system or a new service line.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before a new line, a plant move or a change of key supplier.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before a warehouse move, a new carrier or a new stock system.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before committing to a large job, a new yard or a new site system.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), when the plans get bigger than the team has made before.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before the launch date is announced.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision), before systems, sites or teams are merged.
 
 ## What has to change for your company
 
@@ -59,7 +66,7 @@ Decide which decisions get a premortem, for example anything over a set amount o
 
 FullyPowered AI wrote this workflow template, drawing on a published open-source method credited in its sources. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with the template; it lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a decision your team made a year or more ago and knows the outcome of, with the reasons written fresh by people who were there, plus hard cases written in advance: a reason that fits no group, a rating outside the scale, a top risk nobody owns. The owner checks the ranking against the ratings before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets up those cases, and when the plan is a launch, [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/) carries the agreed checks into the dated steps.
+Testing in your environment means running it on a decision your team made a year or more ago and knows the outcome of, with the reasons written fresh by people who were there, plus hard cases written in advance: a reason that fits no group, a rating outside the scale, a top risk nobody owns. The owner checks the ranking against the ratings before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision) sets up those cases, and when the plan is a launch, [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision) carries the agreed checks into the dated steps.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -86,10 +93,10 @@ Testing in your environment means running it on a decision your team made a year
 
 ## Related workflow templates
 
-- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/)
+- [Launch checklist](https://fullypowered.ai/workflows/launch-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision)
 - [Pilot acceptance-test preparation](../pilot-acceptance-test-preparation/)
 - [Workflow fit check: is this piece of work ready for AI?](../workflow-fit-check/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-premortem-before-a-decision&from=gh-premortem-before-a-decision).
