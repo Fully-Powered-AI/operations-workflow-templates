@@ -46,6 +46,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), for the handoff from sales to client success.
 - [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation), so new hires inherit tested workflows.
 
+More [law firm AI workflow templates](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-pilot-acceptance-test-preparation&from=gh-pilot-acceptance-test-preparation) like this one.
+
 ## What has to change for your company
 
 Your owner names the expert and sets the local rules: which record wins when two disagree, who receives each kind of question, how many runs each case gets and the pass rule. The test runs in the AI workspace your team already uses, on ChatGPT, Claude, Copilot or Gemini, with records your business permits there.

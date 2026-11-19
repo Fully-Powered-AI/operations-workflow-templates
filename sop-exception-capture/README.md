@@ -50,6 +50,8 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 - [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), when two teams run one procedure two ways.
 - [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture), where long-serving staff hold unwritten rules.
 
+See all the [legal AI workflow examples](https://fullypowered.ai/industries/law-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=operations-sop-exception-capture&from=gh-operations-sop-exception-capture) for law firms.
+
 ## What has to change for your company
 
 Name the owner who settles disagreements. Decide which cases can be shared and what client detail comes out first. Set your own thresholds, and agree where the approved register lives and who approves later changes. The register then becomes the job aid and the instructions an AI assistant works from, on ChatGPT, Claude, Copilot or Gemini. Your organization keeps control of how the work gets done.
