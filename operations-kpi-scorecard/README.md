@@ -4,6 +4,8 @@ Once a month the operations manager gets one red-amber-green page for the ten or
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/operations-kpi-scorecard/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/operations-kpi-scorecard/?from=gh-operations-operations-kpi-scorecard)
+
 ## The outcome
 
 The monthly review starts from one page everybody trusts. Every measure is written down once, with its definition, its formula, a target, a red level and one named owner, so nobody argues about what a number means. Each value comes with its working, so anyone can follow it back to the export it came from.

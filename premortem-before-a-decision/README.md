@@ -4,6 +4,8 @@ Before your team commits to a plan that is hard to undo, such as a move, a launc
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/premortem-before-a-decision/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/premortem-before-a-decision/?from=gh-premortem-before-a-decision)
+
 ## The outcome
 
 The owner signs the lease, places the order or sets the launch date knowing what is most likely to sink it, and with something already in place for each of those things. Every top risk has a check to finish before the decision, a sign that would show it coming, the point at which someone acts, and a named person watching.

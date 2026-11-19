@@ -4,6 +4,8 @@ For one site, the facilities or operations manager gets every piece of equipment
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/preventive-maintenance-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/preventive-maintenance-plan/?from=gh-preventive-maintenance-plan)
+
 ## The outcome
 
 Maintenance stops living in one technician's memory and moves onto a calendar everyone can read. Every piece of equipment carries a price on the page: what one breakdown costs in hours stopped and in repair, worked out from your own history where you have it and from your estimate where you do not. The ranking that follows tells you where attention pays.

@@ -4,6 +4,8 @@ Go into every AI pilot with the test already written: the cases that matter, wha
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?from=gh-pilot-acceptance-test-preparation)
+
 ## The outcome
 
 Every pilot ends in a clear decision, backed by evidence the whole team can read. Before the workflow touches real work, the pilot owner holds a complete acceptance test, written to your best person’s standard. A pilot that passes becomes a workflow the whole team relies on from its first week.

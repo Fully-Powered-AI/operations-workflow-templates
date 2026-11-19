@@ -4,6 +4,8 @@ After an injury, near miss or property damage, the site, operations or safety ma
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?from=gh-incident-investigation-and-corrective)
+
 ## The outcome
 
 Every incident gets the same careful record, however busy the week. The facts sit in time order, each one tied to a statement, a photo or a record. The causes go past "someone made a mistake" to what the organisation controls: a layout, a procedure, a check nobody owns. Every action is linked to the cause it deals with and carries an owner, a date and a check that will show whether it worked. Fix the system rather than the person, and the same event becomes much harder to repeat.

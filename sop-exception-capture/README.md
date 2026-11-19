@@ -4,6 +4,8 @@ Turn what your most experienced person does with the awkward cases into an excep
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sop-exception-capture/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sop-exception-capture/?from=gh-operations-sop-exception-capture)
+
 ## The outcome
 
 Every step of the procedure carries the decisions, stop conditions and escalation paths your best people already use, each traced to a real case. A new hire handles the awkward case in their first week. An AI assistant preparing the work flags it and names whom to ask. The whole team works at the level of its best person, and that is how you 10X what it can do.

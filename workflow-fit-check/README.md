@@ -4,6 +4,8 @@ Before you build anything, run one piece of work through six checks and get a st
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workflow-fit-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/workflow-fit-check/?from=gh-operations-workflow-fit-check)
+
 ## The outcome
 
 You stop guessing which piece of work to hand to AI first. Each candidate gets the same six checks and one short page that says what to do, why, and what would change the answer. The work that is ready goes to the front of the line. The work that only needs a setting switched on or a simple register gets that, often within the week, at no cost to build.

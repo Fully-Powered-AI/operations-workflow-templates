@@ -4,6 +4,8 @@ Map one process step by step: who does each step, how long work waits and how lo
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/process-map-and-bottleneck-review/?from=gh-process-map-and-bottleneck-review)
+
 ## The outcome
 
 Everyone has a theory about why the work is slow. This review replaces the theories with one page of figures. Every step of one process is laid out in order, with the role that does it, the hours an item sits waiting before it and the hours of real work it takes. Hand-overs between roles are counted, and every loop where work is sent back to an earlier step is on the map, not hidden.

@@ -4,6 +4,8 @@ At the end of each reporting period, the service delivery manager gets the repor
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/client-service-level-report/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/client-service-level-report/?from=gh-client-service-level-report)
+
 ## The outcome
 
 The report the contract promises arrives on time and stands up to the client's own checking. Every service level in the contract appears once, measured from the business's own tickets, outage log and delivery records, with the arithmetic shown, so anyone on either side can follow a figure back to the rows behind it. A result is never rounded into a pass.

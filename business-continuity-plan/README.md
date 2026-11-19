@@ -4,6 +4,8 @@ For an owner or operations manager: the activities the business cannot stop for 
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/business-continuity-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/business-continuity-plan/?from=gh-operations-business-continuity-plan)
+
 ## The outcome
 
 When the building floods, the order system goes dark or the one person who runs payroll is away, your team opens a plan instead of improvising. It names the work that cannot wait, in the order to bring it back, with how long each piece can be down before the damage is real and how much recent data it can afford to lose.

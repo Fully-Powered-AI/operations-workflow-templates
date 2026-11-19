@@ -4,6 +4,8 @@ Turn a walkthrough of how one piece of work is really done into a written proced
 
 *Workflow template · Operations and process improvement · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?from=gh-sop-from-how-the-work-is-done)
+
 ## The outcome
 
 The work that lives in one person’s head becomes a procedure the whole team can run. A colleague covering for the first time follows it step by step. A new hire can be useful in days. An AI assistant has precise instructions to prepare the work from. That is how one person’s way of working becomes the whole team’s, and how a team does far more than its headcount suggests.
