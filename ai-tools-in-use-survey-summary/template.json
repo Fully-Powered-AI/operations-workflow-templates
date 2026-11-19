@@ -1,0 +1,46 @@
+{
+  "id": "ai-tools-in-use-survey-summary",
+  "name": "AI tools in use: survey summary",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before the first AI plan, the owner sees what people already use: which assistants and AI features, how often, for what work, who pays, and which answers mention customer or confidential information. Built by team from an anonymous survey export, with small teams held back.",
+  "directory": "https://fullypowered.ai/workflows/ai-tools-in-use-survey-summary/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement"
+  ],
+  "industries": [
+    "industries/professional-services",
+    "industries/law-firms",
+    "industries/marketing-and-advertising"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "workflow-inventory",
+    "software-subscription-and-vendor-spend-review",
+    "workflow-fit-check"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own published guidance on planning AI use and on what information goes into an assistant, written as original method for this workflow template."
+    }
+  ]
+}

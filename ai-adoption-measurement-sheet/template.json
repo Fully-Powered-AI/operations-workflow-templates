@@ -1,0 +1,47 @@
+{
+  "id": "ai-adoption-measurement-sheet",
+  "name": "AI adoption measurement sheet",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Once a month, the owner of an AI workflow in daily use by one team gets one sheet with four lines: is it installed, is it used, is it useful in the quality of its drafts, and is it useful to the business. It reads the team's work, never a person's, and the owner decides what changes.",
+  "directory": "https://fullypowered.ai/workflows/ai-adoption-measurement-sheet/",
+  "primary_function": "functions/operations-and-process-improvement",
+  "functions": [
+    "functions/operations-and-process-improvement",
+    "functions/leadership"
+  ],
+  "industries": [
+    "industries/logistics-and-trade",
+    "industries/professional-services",
+    "industries/insurance",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "pilot-acceptance-test-preparation",
+    "workflow-fit-check"
+  ],
+  "evidence": {
+    "written_by": "FullyPowered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-19",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-19",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "FullyPowered AI's own published method for measuring adoption across a team: installed, used and useful, read on four lines."
+    }
+  ]
+}

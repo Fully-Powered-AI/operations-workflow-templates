@@ -4,6 +4,30 @@
   "term": "functions/operations-and-process-improvement",
   "templates": [
     {
+      "id": "ai-adoption-measurement-sheet",
+      "name": "AI adoption measurement sheet",
+      "version": "0.1.0",
+      "summary": "Once a month, the owner of an AI workflow in daily use by one team gets one sheet with four lines: is it installed, is it used, is it useful in the quality of its drafts, and is it useful to the business. It reads the team's work, never a person's, and the owner decides what changes.",
+      "path": "ai-adoption-measurement-sheet/",
+      "directory": "https://fullypowered.ai/workflows/ai-adoption-measurement-sheet/"
+    },
+    {
+      "id": "ai-pilot-result-write-up",
+      "name": "AI pilot result write-up",
+      "version": "0.1.0",
+      "summary": "When an AI workflow's pilot ends, the pilot owner and the leader who decides get two pages: what was tested and on how many cases, what passed, what failed and why, what nobody tested, the bar set beside the results, and the decision left open. It recommends nothing.",
+      "path": "ai-pilot-result-write-up/",
+      "directory": "https://fullypowered.ai/workflows/ai-pilot-result-write-up/"
+    },
+    {
+      "id": "ai-tools-in-use-survey-summary",
+      "name": "AI tools in use: survey summary",
+      "version": "0.1.0",
+      "summary": "Before the first AI plan, the owner sees what people already use: which assistants and AI features, how often, for what work, who pays, and which answers mention customer or confidential information. Built by team from an anonymous survey export, with small teams held back.",
+      "path": "ai-tools-in-use-survey-summary/",
+      "directory": "https://fullypowered.ai/workflows/ai-tools-in-use-survey-summary/"
+    },
+    {
       "id": "business-continuity-plan",
       "name": "Business continuity plan",
       "version": "0.1.0",
